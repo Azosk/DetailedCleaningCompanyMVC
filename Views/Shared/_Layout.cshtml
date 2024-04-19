@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Detailed Cleaning Company</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/DetailedCleaningCompanyMVC.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="headline navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow pt-0 pb-0">
+            <div class="container-fluid">
+                <img src="~/images/logo.png" alt="Detailed Cleaning Company Logo" class="img-fluid logo"/>
+                <a style="color:#1d4978;" class="title navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Detailed Cleaning Company LLC</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav col flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Contact</a>
+                        </li>
+                    </ul>
+                    <span class="container-fluid col text-end icon-span p-2 m-2">
+                        <img src="~/images/facebook.svg" alt="FaceBook Icon" class="img-fluid icon"/>
+                        <img src="~/images/instagram.svg" alt="Instagram Icon" class="img-fluid icon"/>
+                        <img src="~/images/envelope.svg" alt="Instagram Icon" class="img-fluid icon"/>
+                    </span>
+                </div>
+            </div>
+        </nav>
+        <div class="custom-nav container-fluid">
+            <a class="custom-nav-item" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
+            <a class="custom-nav-item" asp-area="" asp-controller="Home" asp-action="Services">SERVICES</a>
+            <a class="custom-nav-item" asp-area="" asp-controller="Home" asp-action="About">ABOUT</a>
+            <a class="custom-nav-item" asp-area="" asp-controller="Home" asp-action="Contact">CONTACT</a>
+            <div class="custom-nav-label p-2 m-2">
+                <label class="pt-1 pe-3">Schedule an appointment</label>
+                <button class="custom-nav-button p-1">Schedule</button>
+            </div>
+        </div>
+    </header>
+    <div class="container-fluid">
+        <main class="container-fluid" role="main">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="container-fluid footer p-0 m-0">
+    <div class="footer-bar container-fluid p-0 m-0"></div>
+        <div class="container-fluid row ps-5 pe-5">
+            <div class="col">
+                <div class="footer-header">NAVIGATION</div>
+                <div class="footer-content-item"><a href="~/Pages/Home">Home</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home">Services</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home">About</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home">Contact</a></div>
+            </div>
+            <div class="col">
+                <div class="footer-header">SERVICES</div>
+                <div class="footer-content-item"><a href="~/Pages/Home">General Cleaning</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home">Deep Cleaning</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home">Carpet Cleaning</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home">Furniture Cleaning</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home">Move in/out Cleaning</a></div>
+            </div>
+            <div class="col">
+                <div class="footer-header">CONTACT US</div>
+                <div class="footer-content-item"><a href="~/Pages/Home"><img src="~/images/facebook.svg" alt="FaceBook Icon" class="img-fluid footer-icon"/>DetailedCleaning@gmail.com</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home"><img src="~/images/instagram.svg" alt="Instagram Icon" class="img-fluid footer-icon"/>Detailed_CleaningCO</a></div>
+                <div class="footer-content-item"><a href="~/Pages/Home"><img src="~/images/envelope.svg" alt="Instagram Icon" class="img-fluid footer-icon"/>DetailedCleaningCO</a></div>
+            </div>
+            <div class="col">
+                <div class="footer-header">PRIVACY STATEMENT</div>
+                <div class="footer-content-item">Detailed Cleaning Company LLC is based in Elyria, OH. Detailed Cleaning Company LLC will always ask before collecting data, and will only use acquired data for analytics. Detailed Cleaning Company LLC is not promising a service, and rates are liable to change based on the type of service, the location of the service, and are subject to various other details.</div>
+            </div>
+        </div>
+    </footer> 
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
