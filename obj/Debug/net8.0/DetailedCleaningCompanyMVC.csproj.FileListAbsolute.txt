@@ -58,3 +58,4 @@ C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\refint\Detail
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.pdb
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.genruntimeconfig.cache
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\ref\DetailedCleaningCompanyMVC.dll
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.sourcelink.json
