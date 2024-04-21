@@ -28,13 +28,6 @@ F:\Projects\DetailedCleaningCompany\DetailedCleaningCompanyMVC\obj\Debug\net8.0\
 F:\Projects\DetailedCleaningCompany\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.pdb
 F:\Projects\DetailedCleaningCompany\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.genruntimeconfig.cache
 F:\Projects\DetailedCleaningCompany\DetailedCleaningCompanyMVC\obj\Debug\net8.0\ref\DetailedCleaningCompanyMVC.dll
-C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.AssemblyInfoInputs.cache
-C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.AssemblyInfo.cs
-C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.csproj.CoreCompileInputs.cache
-C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.RazorAssemblyInfo.cache
-C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.RazorAssemblyInfo.cs
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\bin\Debug\net8.0\appsettings.json
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\bin\Debug\net8.0\DetailedCleaningCompanyMVC.staticwebassets.runtime.json
@@ -43,6 +36,14 @@ C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\bin\Debug\net8.0\DetailedClean
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\bin\Debug\net8.0\DetailedCleaningCompanyMVC.runtimeconfig.json
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\bin\Debug\net8.0\DetailedCleaningCompanyMVC.dll
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\bin\Debug\net8.0\DetailedCleaningCompanyMVC.pdb
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.AssemblyInfoInputs.cache
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.AssemblyInfo.cs
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.csproj.CoreCompileInputs.cache
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.RazorAssemblyInfo.cache
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.RazorAssemblyInfo.cs
+C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.sourcelink.json
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\staticwebassets\msbuild.DetailedCleaningCompanyMVC.Microsoft.AspNetCore.StaticWebAssets.props
@@ -58,4 +59,3 @@ C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\refint\Detail
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.pdb
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.genruntimeconfig.cache
 C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\ref\DetailedCleaningCompanyMVC.dll
-C:\Users\azosk\Desktop\DetailedCleaningCompanyMVC\obj\Debug\net8.0\DetailedCleaningCompanyMVC.sourcelink.json
