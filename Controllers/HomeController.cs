@@ -18,6 +18,12 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpGet]
+    public IActionResult AppointmentForm()
+    {
+        return View("AppointmentForm");
+    }
+
     public IActionResult Privacy()
     {
         return View();

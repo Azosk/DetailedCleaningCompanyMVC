@@ -53,6 +53,11 @@ p {
   font-weight: 500;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
 /* Footer Content */
 
 .footer {
@@ -179,10 +184,15 @@ p {
   }
 }
 
+@media (max-width: 800px) {
+  .card {
+    width: 150px;
+  }
+}
+
 @media (max-width: 640px) {
   .card {
-    padding: 0px;
-    margin: 0px;
+    width: auto;
   }
 }
 
