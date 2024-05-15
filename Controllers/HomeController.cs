@@ -24,6 +24,34 @@ public class HomeController : Controller
         return View("AppointmentForm");
     }
 
+[HttpPost]
+public IActionResult AppointmentForm(Appointment appointment)
+{
+    // Check if the model state is valid
+    if (ModelState.IsValid)
+    {
+        // Check if the Agree property is true
+        if (appointment.Agree)
+        {
+            // If Agree is true, redirect to the appointment confirmation page
+            return RedirectToAction("AppointmentConfirmation");
+        }
+        else
+        {
+            // If Agree is false, add a model error
+            ModelState.AddModelError("Agree", "You must agree to the terms and conditions.");
+            using (var console = System.Console.Out)
+            {
+                console.WriteLine("Agree is false");
+            }
+        }
+    }
+
+    // If the model state is not valid or Agree is false, return the form view with the current model
+    return View("AppointmentForm", appointment);
+}
+
+
     public IActionResult Privacy()
     {
         return View();
