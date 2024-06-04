@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DetailedCleaningCompanyMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f99d88863fcaf5ff91e93b062863f6b602cf146f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4114b008b0dc89b1518ade0be90e9d6b1af7228")]
 [assembly: System.Reflection.AssemblyProductAttribute("DetailedCleaningCompanyMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DetailedCleaningCompanyMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
