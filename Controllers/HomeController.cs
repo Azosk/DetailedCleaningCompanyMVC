@@ -52,9 +52,9 @@ public IActionResult AppointmentForm(Appointment appointment)
 }
 
 
-    public IActionResult Privacy()
+    public IActionResult Services()
     {
-        return View();
+        return View("Services");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

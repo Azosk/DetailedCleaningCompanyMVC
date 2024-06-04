@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Mfl7Y7uxMLVyQkrT21Wl3V/cK0+qGCyJ4rsijDme83RA68Ay9pyluzcXHNOCEGpIQqYMvc6FxJ0nsPjWIfIEQ==",
+  "dgSpecHash": "DQ72L1FQVbc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\azosk\\Desktop\\DetailedCleaningCompanyMVC\\DetailedCleaningCompanyMVC.csproj",
+  "projectFilePath": "C:\\Users\\azosk\\source\\repos\\DetailedCleaningCompanyMVC\\DetailedCleaningCompanyMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\azosk\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\azosk\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
